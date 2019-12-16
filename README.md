@@ -17,4 +17,4 @@ dose-calculation
 1. Import the Office_Px_NXT842 template or extract the stored procedure, appdev_dose_inj, and manually install it
 2. Integrate the necessary triggers to fire the dose calculation
 
-![NextGen BBP Integration](https://https://github.com/kevinfosterNG/med-interaction/blob/master/unit_conversion.jpg)
+![Dose calculation triggers](https://github.com/kevinfosterNG/med-interaction/blob/master/unit_conversion.jpg)

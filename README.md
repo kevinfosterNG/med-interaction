@@ -10,3 +10,11 @@ How to integrate this change:
 	b.	Use the provided KBM 8.0 or KBM 8.3 templates with only this change included.
 3.	Configure the practice template with the desired preferences (2 radio buttons at the top).
 4.	Add the medication name, CPT code (from the Office Px picklists) and the NDC ID that should be used for the interaction check.
+
+
+dose-calculation
+===============
+1. Import the Office_Px_NXT842 template or extract the stored procedure, appdev_dose_inj, and manually install it
+2. Integrate the necessary triggers to fire the dose calculation
+
+![NextGen BBP Integration](https://https://github.com/kevinfosterNG/med-interaction/blob/master/unit_conversion.jpg)
